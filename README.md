@@ -1,14 +1,6 @@
-## Getting Started
+## Lecciones aprendidas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+- `Utilización de objetos dto para poder realizar una comunicación entre la capa view y la capa service.`
+- `La capa servicio solo debe manejar las operaciones y no debemos poner nada que tenga que ver con un formulario o interfaz`
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
